@@ -24,7 +24,7 @@ private:
         styleMap["u"] = "\\underline{";
     }
     
-    // Extract document.xml from DOCX (which is a ZIP file)
+    // Extract document.xml from docx (which is a Zzip file)
     std::string extractDocumentXml() {
         int err = 0;
         zip* archive = zip_open(docxPath.c_str(), 0, &err);
