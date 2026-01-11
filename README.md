@@ -45,7 +45,7 @@ DocxToLatexConverter/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/DocxToLatexConverter.git
+git clone https://github.com/un1u3/DocxToLatexConverter.git
 cd DocxToLatexConverter
 
 # Create build directory and compile
