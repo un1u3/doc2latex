@@ -26,7 +26,7 @@ Supports basic formatting: **bold**, *italic*, _underline_, and headings.
 ## Project Structure
 
 ```
-cd doc2latex/
+doc2latex/
 ├── src/ # Source code
 │ └── doc2latex.cpp
 ├── build/ # Build directory (ignored in Git)
