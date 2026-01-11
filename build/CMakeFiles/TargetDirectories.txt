@@ -1,0 +1,3 @@
+/home/unique/Desktop/doc2latex/build/CMakeFiles/docx2latex.dir
+/home/unique/Desktop/doc2latex/build/CMakeFiles/edit_cache.dir
+/home/unique/Desktop/doc2latex/build/CMakeFiles/rebuild_cache.dir

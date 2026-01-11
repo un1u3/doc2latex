@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/docx2latex.dir/doc2latex.cpp.o -o docx2latex  -lzip -ltinyxml2 
