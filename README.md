@@ -26,10 +26,9 @@ Supports basic formatting: **bold**, *italic*, _underline_, and headings.
 ## Project Structure
 
 ```
-DocxToLatexConverter/
+cd doc2latex/
 ├── src/ # Source code
 │ └── doc2latex.cpp
-├── include/ # Header files (optional if split)
 ├── build/ # Build directory (ignored in Git)
 ├── docs/ # Sample DOCX files
 │ └── input.docx
@@ -45,8 +44,8 @@ DocxToLatexConverter/
 
 ```bash
 # Clone the repository
-git clone https://github.com/un1u3/DocxToLatexConverter.git
-cd DocxToLatexConverter
+git clone https://github.com/un1u3/doc2latex.git
+cd doc2latex
 
 # Create build directory and compile
 mkdir build && cd build
